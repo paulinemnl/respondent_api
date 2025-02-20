@@ -28,7 +28,7 @@
 1. Клонируйте репозиторий и перейдите в папку проекта:
 
     ```bash
-    git clone https://github.com/paulinemnl/respondent-api.git
+    git clone https://github.com/paulinemnl/respondent_api.git
     cd respondent_api
     ```
 
